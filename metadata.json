@@ -1,0 +1,5 @@
+{
+  "name": "Football Matches Statistics",
+  "description": "An application to display statistics and analysis of football matches from various leagues around the world in a highly visual and intuitive way.",
+  "requestFramePermissions": []
+}
